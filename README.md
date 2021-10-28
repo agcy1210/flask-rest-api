@@ -1,1 +1,1 @@
-This repository contains REST api sample in Flask
+This repository contains REST api sample in Flask.
